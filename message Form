@@ -76,7 +76,7 @@
 </head>
 <body>
     <div class="feedback-container">
-        <h2>Send Message to PABITRA</h2>
+        <h2>Send Message to Us</h2>
         <form id="feedbackForm" action="https://api.web3forms.com/submit" method="POST">
             <input type="hidden" name="access_key" value="e67a582a-29ba-4180-a6ed-41d174937780">
             <label for="name">Name:</label>
